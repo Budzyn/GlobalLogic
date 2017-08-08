@@ -1,0 +1,6 @@
+G:\study\GL\GL\bin\Debug\GL.exe.config
+G:\study\GL\GL\bin\Debug\GL.exe
+G:\study\GL\GL\bin\Debug\GL.pdb
+G:\study\GL\GL\obj\Debug\GL.csprojResolveAssemblyReference.cache
+G:\study\GL\GL\obj\Debug\GL.exe
+G:\study\GL\GL\obj\Debug\GL.pdb
